@@ -92,26 +92,19 @@ AI continues: `"Amo programar"`
 ## Resources & References 🌐
 
 **GitHub Repos:**  
-   [Prompt Engineering mastering Guideline](https://github.com/panaversity/learn-low-code-agentic-ai/tree/main/00_prompt_engineering)
-
+- [Prompt Engineering mastering Guideline](https://github.com/panaversity/learn-low-code-agentic-ai/tree/main/00_prompt_engineering)
 - [DAIR.AI Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
--  
 - [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)  
-
 - [Anthropic Prompt Engineering Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)  
 
 **Websites & Tutorials:**  
 - [Learn Prompting](https://learnprompting.org)  
-
 - [OpenAI Prompt Guide](https://platform.openai.com/docs/guides/prompt-engineering)  
-
 - [Google Cloud Prompt Engineering](https://cloud.google.com/discover/what-is-prompt-engineering)
 
 **Videos:**  
 - [Panaversity YouTube Class Playlist](https://www.youtube.com/playlist?list=PL0vKVrkG4hWpeKmZyCRTpfRiLQ13b5uRX)
-
-- [Prompt Engineering for Beginners – YouTube](https://www.youtube.com/watch?v=_ZvnD73m40o)  
-
+- [Prompt Engineering for Beginners – YouTube](https://www.youtube.com/watch?v=_ZvnD73m40o) 
 - [Mastering ChatGPT Prompts – YouTube](https://www.youtube.com/watch?v=p09yRj47kNM)
 
 
