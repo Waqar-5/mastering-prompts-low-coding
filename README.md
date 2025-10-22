@@ -126,3 +126,78 @@ With practice, you can **guide AI to produce exactly what you want**, for writin
 
 ---
 
+
+# Prompt Engineering vs Context Engineering 📌
+
+In AI development, especially with **Large Language Models (LLMs)** like GPT, Claude, or Gemini, two important concepts often come up: **Prompt Engineering** and **Context Engineering**.  
+While they are related, they serve different purposes and work together to guide AI effectively.
+
+---
+
+## 1️⃣ What is Prompt Engineering?
+
+**Prompt Engineering** is the **art and science of designing the input you give to an AI model** to get the best possible output.  
+
+- Focus: **The instructions you provide**  
+- Goal: Make AI understand **what task to perform and how to perform it**  
+- Example:  
+  ```text
+  Task: Summarize an article
+  Weak Prompt: "Summarize this."
+  Strong Prompt: "You are a professional editor. Summarize this article in 5 bullet points using clear, concise sentences."
+Key Point: Prompt engineering is about crafting effective instructions and examples.
+
+2️⃣ What is Context Engineering?
+Context Engineering is the technique of providing relevant background, information, or memory so the AI can give better results.
+
+Focus: The information AI uses to make decisions
+
+Goal: Make AI understand the situation, history, or details before generating output
+
+Example:
+
+text
+Copy code
+You want AI to continue a conversation with a user:
+Context: Previous messages, user preferences, or prior knowledge
+Key Point: Context engineering is about what the AI knows and remembers when processing the prompt.
+
+3️⃣ Main Differences at a Glance
+Feature	Prompt Engineering	Context Engineering
+Focus	How you ask the AI	What AI knows before answering
+Purpose	Guide AI to perform a task effectively	Provide AI with relevant background or history
+Components	Instructions, constraints, examples	Previous conversation, memory, documents, data
+Example	"Write a 3-line poem about spring"	Including previous chat or document: "User prefers rhyming poems"
+Key Skill	Writing precise prompts	Providing and organizing relevant information
+
+4️⃣ How They Work Together
+Prompt engineering tells the AI what to do
+
+Context engineering tells the AI what it should know before doing it
+
+Example:
+Task: Write a personalized story for a child
+Context: "Child’s name is Sara, age 8, loves space and animals."
+Prompt: "Write a fun bedtime story for Sara that includes a spaceship and a cat."
+Result: AI generates a story tailored specifically for Sara.
+
+5️⃣ Key Takeaways
+Prompt Engineering → “How to ask”
+
+Context Engineering → “What AI knows when answering”
+
+Both are essential for effective AI applications
+
+Mastering both lets you build powerful, personalized, and accurate AI outputs
+
+🔧 Practical Tip for GitHub Repo
+Prompt Examples Folder: Store all your prompt engineering tests
+
+Context Examples Folder: Store your context files, memory setups, or document references
+
+Keep them linked together for experiments
+
+Conclusion:
+Prompt engineering is about instruction, while context engineering is about information.
+Together, they make AI more accurate, relevant, and creative.
+
